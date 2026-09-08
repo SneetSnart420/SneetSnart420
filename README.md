@@ -1,13 +1,21 @@
-<h1 align="center">- The Wizard! -</h1>
-<h3 align="center">Alakazam!</h3>
+# - The Wizard! -
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FloTheWiz&show_icons=true&theme=gruvbox&locale=en" alt="FloTheWiz" /></p>
+### Alakazam!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloTheWiz)
+I'm Flo. I make things sometimes.
 
-<h3 align="left"> Now Playing:</h3>
+Usually games, websites, bots, things.
 
+---
 
-![Visitor Count](https://profile-counter.glitch.me/FloTheWiz/count.svg)
+### Now Playing:
 
+🎵 whatever Spotify says I'm listening to
 
+---
+
+I'll have a projects thing here one day
+
+<p align="center">
+	<img src="https://profile-counter.glitch.me/FloTheWiz/count.svg">
+</p>
